@@ -1,0 +1,14 @@
+1. Get data physically from class lists
+2. get votes for placeholders until Requests library lesson (ratings)
+3. Create strings and lists from data
+4. create function to loop through lists of lists ????
+5. write lists to local file
+6. load CSV with data from other classes. if 1 class, have them create multiple/TF created lists
+7. move into dictionary/json
+8. review code thus far
+9. API calls (requests/json)
+10. pickle data
+11. convert to datetime
+12. move into pandas
+13. massage data
+14. plot time series
